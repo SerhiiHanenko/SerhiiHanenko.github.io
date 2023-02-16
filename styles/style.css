@@ -1,0 +1,38 @@
+html {
+    font-size: 25px; 
+    font-family: mulish;
+    background-color: hwb(149 13% 57%);
+  }
+  
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: hwb(149 13% 57%);
+    text-shadow: 3px 3px 7px black;
+  }
+  
+  .img-logo {
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+  }
+
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  
+  body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #b26441d7;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  
